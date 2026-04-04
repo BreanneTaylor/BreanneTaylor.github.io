@@ -2,90 +2,93 @@
 layout: cv
 title: Breanne Taylor's CV
 ---
+
 # Breanne Taylor
-Physicist, Mathematician, Cambridge professor.
+Accounting Student | Data Science Certificate
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-<!-- | <a href="https://yourusername.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
-| <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
+<a href="mailto:beezerwee@gmail.com">beezerwee@gmail.com</a>
+| (208) 243-4178
+| <a href="#">LinkedIn Profile</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Accounting student at Brigham Young University–Idaho with a focus on data analytics and taxation, working toward building real-world experience and professional growth.
+
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Accounting fundamentals, data analytics, Python, SQL, Power BI
 
 
-### Research interests
+### Interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Income taxation, data analytics, problem solving, applying data science to business decisions
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`September 2023 - Present`
+__Brigham Young University–Idaho__, Rexburg, Idaho
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Accounting Major  
+- GPA: 3.90 | Major GPA: 4.0  
+- Data Science Certification  
 
 
+## Experience
 
-## Awards
+`April 2025 - September 2025`
+__Broulim's Fresh Foods__, Rigby, Idaho  
+Cashier
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Operated cash register and POS system accurately during high-volume hours  
+- Trained 6 new employees on transactions and payment procedures  
+- Reconciled cash drawer daily and identified discrepancies  
+- Maintained drawer accuracy within $1 on nearly every shift  
+- Handled ~150 customer transactions per shift efficiently  
 
 
-## Occupation
+`August 2023 - December 2023`
+__Aspen Home Health and Hospice__, Idaho Falls, Idaho  
+Home Health and Hospice Aid
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Performed CNA duties while traveling between patients  
+- Assisted with daily living activities and patient care  
+- Documented care for 1–7 patients per shift  
+- Monitored and recorded vital signs consistently  
 
 
+`June 2023 - September 2023`
+__Sage Grove Assisted Living__, Rigby, Idaho  
+Certified Nursing Assistant
 
-<!-- ### Footer
+- Assisted residents with hygiene, mobility, and daily care  
+- Supported 10–14 patients per shift with individualized care  
+- Maintained detailed documentation of health and preferences  
+- Ensured compliance with health and safety regulations  
+- Prepared meals for residents with dietary restrictions  
 
-Last updated: May 2013 -->
+
+## Certifications
+
+- CPR  
+- Certified Nursing Assistant (CNA)  
+- Microsoft Word and Excel  
+- ServSafe Food Handler Permit  
+
+
+## Skills
+
+### Technical Skills
+Python, SQL, Microsoft Power BI, AI Prompting
+
+### Soft Skills
+Teamwork, Attention to Detail, Organization, Critical Thinking, Problem Solving
+
+
+## Mission Statement
+
+Committed to gaining hands-on experience and contributing value in every role, while building a strong foundation for long-term professional growth.
