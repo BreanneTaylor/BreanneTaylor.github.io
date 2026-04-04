@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Breanne Taylor's CV
 ---
-# Isaac Newton
+# Breanne Taylor
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
