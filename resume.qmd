@@ -9,8 +9,7 @@ Accounting Student | Data Science Certificate
 <div id="webaddress">
 <a href="mailto:beezerwee@gmail.com">beezerwee@gmail.com</a>
 | (208) 243-4178
-| <a href="https://www.linkedin.com/in/breanne-juliet-taylor/">LinkedIn Profile</a>
-</div>
+<a href="https://www.linkedin.com/in/breanne-juliet-taylor/" target="_blank">LinkedIn</a></div>
 
 
 ## Currently
